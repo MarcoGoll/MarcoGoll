@@ -1,4 +1,8 @@
 ## Hi there 👋
+I am a Marco web developer, shifting from requirements management to source code creator/controller/tester/fan 😁
+
+- 🔭 I’m currently working on a massaging app similar to Slack
+- 🌱 I'm currently learning something new every day (focus on Angular and Python)!
 
 <!--
 **MarcoGoll/MarcoGoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
