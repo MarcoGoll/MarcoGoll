@@ -1,5 +1,4 @@
-<div style="width: 100%; height: 300px; background-image: url('https://raw.githubusercontent.com/marcogoll/marcogoll/main/img/header.jpg'); background-size: cover; background-position: center; border-radius: 10px;">
-</div>
+<img src="https://raw.githubusercontent.com/marcogoll/marcogoll/main/img/header.jpg" alt="Header" style="width:100%; height:300px; object-fit:cover; border-radius:10px;"/>
 
 <h2 align="left">Hi there 👋</h2>
 <h3 align="left">I am Marco web developer, shifting from requirements management to source code creator/controller/tester/fan 😁</h3>
