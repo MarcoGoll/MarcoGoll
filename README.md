@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MarcoGoll/MarcoGoll/refs/heads/main/img/header.png" alt="Header" style="width:100%; height:300px;"/>
+<img src="https://raw.githubusercontent.com/MarcoGoll/MarcoGoll/refs/heads/main/img/header.jpg" alt="Header" style="width:100%; height:200px;"/>
 
 <h2 align="left">Hi there 👋</h2>
 <h3 align="left">I am Marco web developer, shifting from requirements management to source code creator/controller/tester/fan 😁</h3>
