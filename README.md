@@ -1,3 +1,6 @@
+<div style="width: 100%; height: 300px; background-image: url('./img/header.jpg'); background-size: cover; background-position: center; border-radius: 10px;">
+</div>
+
 <h2 align="left">Hi there 👋</h2>
 <h3 align="left">I am Marco web developer, shifting from requirements management to source code creator/controller/tester/fan 😁</h3>
 
@@ -31,6 +34,9 @@
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> 
     </a>
     <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> 
