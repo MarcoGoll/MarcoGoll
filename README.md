@@ -1,4 +1,4 @@
-<div style="width: 100%; height: 300px; background-image: url('https://github.com/MarcoGoll/MarcoGoll/blob/main/img/header.jpg'); background-size: cover; background-position: center; border-radius: 10px;">
+<div style="width: 100%; height: 300px; background-image: url('https://raw.githubusercontent.com/marcogoll/marcogoll/main/img/header.jpg'); background-size: cover; background-position: center; border-radius: 10px;">
 </div>
 
 <h2 align="left">Hi there 👋</h2>
