@@ -1,19 +1,9 @@
-## Hi there 👋
-
-I am a Marco web developer, shifting from requirements management to source code creator/controller/tester/fan 😁
+<h2 align="left">Hi there 👋</h2>
+<h3 align="left">I am a Marco web developer, shifting from requirements management to source code creator/controller/tester/fan 😁</h3>
 
 - 🔭 I’m currently working on a massaging app similar to Slack
 - 🌱 I'm currently learning something new every day (focus on Angular and Python)!
 
-<h3 align="center">I am a Marco web developer, shifting from requirements management to source code creator/controller/tester/fan 😁</h3>
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=marcogoll&label=Profile%20views&color=0e75b6&style=flat" alt="marcogoll" />
-</p>
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=marcogoll" alt="marcogoll" />
-    </a>
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left"> kontakt@marcogollmer.de</p>
 <h3 align="left">Languages and Tools:</h3>
@@ -51,9 +41,6 @@ I am a Marco web developer, shifting from requirements management to source code
 </p>
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcogoll&show_icons=true&locale=en&layout=compact" alt="marcogoll" />
-</p>
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcogoll&show_icons=true&locale=en" alt="marcogoll" />
 </p>
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcogoll&" alt="marcogoll" />
