@@ -48,5 +48,5 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcogoll&show_icons=true&locale=en&layout=compact" alt="marcogoll" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcogoll&" alt="marcogoll" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcogoll&hide_current_streak=true&hide_longest_streak=true" alt="marcogoll" />
 </p>
